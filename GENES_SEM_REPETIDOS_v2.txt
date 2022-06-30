@@ -1,0 +1,31 @@
+SEMA7A - par não encontrado
+GK2 - par não encontrado
+LOC730134 - gene não está na base de dados - não esta no ncbi
+LOC286359 - gene não está na base de dados
+CASP12 - gene não está na base de dados
+CLEC1B - gene não está na base de dados
+MAGEB18 - gene não está na base de dados
+KRT78 - par não encontrado
+TTTY15 - gene não está na base de dados
+MGC27382 - gene não está na base de dados
+
+STOML3 - par não encontrado
+NLRP13 - gene não está na base de dados
+ABCB11 - par não encontrado
+C16orf46 - gene não está na base de dados
+NECAB1 - gene não está na base de dados
+LCE1B - par não encontrado
+S100A1L - gene não está na base de dados
+NCRNA00114 - gene não está na base de dados
+LOC100128262 - gene não está na base de dados
+CCL16 - gene não está na base de dados
+DAGLB - par não encontrado
+GPA33 - gene não está na base de dados
+DSCR10 - gene não está na base de dados
+ZNF516 - gene não está na base de dados
+LOC100128098 - gene não está na base de dados
+SEDLP - gene não está na base de dados
+HOXC10 ***
+VEGFC ***
+MARCH8 - gene não está na base de dados
+TCTN2 - gene não está na base de dados
